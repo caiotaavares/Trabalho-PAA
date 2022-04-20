@@ -1,4 +1,4 @@
-# Trabalho Projeto e Análise de Algoritmos
+# Trabalho de Projeto e Análise de Algoritmos
 ##### Trabalho desenvolvido como forma de avaliação dos conhecimentos adquiridos durante o curso
 
 Trabalho desenvolvido com linguagem C e utilizando o sofware Code::Blocks.
