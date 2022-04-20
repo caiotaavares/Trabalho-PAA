@@ -1,7 +1,7 @@
 # Trabalho de Projeto e Análise de Algoritmos
 ##### Trabalho desenvolvido como forma de avaliação dos conhecimentos adquiridos durante o curso
 
-Trabalho desenvolvido com linguagem C e utilizando o sofware Code::Blocks.
+Desenvolvido com linguagem C e utilizando o sofware Code::Blocks.
 
 O Objetivo foi analisar os algoritmos de ordenação através do tempo para ordenar arrays ordenados, desordenados e ordenados em ordem decrescente.
 * Bubble Sort
