@@ -1,0 +1,24 @@
+
+Bubble Sort: 0.006000
+Bubble Sort Plus: 0.003000
+Quick Sort: 0.000000
+
+Bubble Sort: 0.416000
+Bubble Sort Plus: 0.238000
+Quick Sort: 0.000000
+
+Bubble Sort: 1.698000
+Bubble Sort Plus: 0.947000
+Quick Sort: 0.001000
+
+Bubble Sort: 10.249000
+Bubble Sort Plus: 5.412000
+Quick Sort: 0.003000
+
+Bubble Sort: 36.087000
+Bubble Sort Plus: 20.756000
+Quick Sort: 0.006000
+
+Bubble Sort: 148.948000
+Bubble Sort Plus: 83.182000
+Quick Sort: 0.016000

@@ -1,0 +1,3051 @@
+
+ALEATÓRIO
+
+1000
+
+Bubble Sort: 0.005000
+Bubble Sort: 0.004000
+Bubble Sort: 0.0040000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.003000
+Bubble Sort: 0.004000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.003000
+Selection Sort: 0.002000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Merge Sort: 0.001000
+Merge Sort: 0.002000
+Merge Sort: 0.001000
+Merge Sort: 0.001000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.001000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+
+10.000
+
+Bubble Sort: 0.619000
+Bubble Sort: 0.398000
+Bubble Sort: 0.457000
+Bubble Sort: 0.399000
+Bubble Sort: 0.401000
+Bubble Sort: 0.406000
+Bubble Sort: 0.406000
+Bubble Sort: 0.405000
+Bubble Sort: 0.403000
+Bubble Sort: 0.401000
+Bubble Sort Plus: 0.232000
+Bubble Sort Plus: 0.233000
+Bubble Sort Plus: 0.232000
+Bubble Sort Plus: 0.230000
+Bubble Sort Plus: 0.232000
+Bubble Sort Plus: 0.232000
+Bubble Sort Plus: 0.232000
+Bubble Sort Plus: 0.238000
+Bubble Sort Plus: 0.229000
+Bubble Sort Plus: 0.232000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Selection Sort: 0.214000
+Selection Sort: 0.212000
+Selection Sort: 0.211000
+Selection Sort: 0.215000
+Selection Sort: 0.213000
+Selection Sort: 0.212000
+Selection Sort: 0.224000
+Selection Sort: 0.213000
+Selection Sort: 0.214000
+Selection Sort: 0.212000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.003000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Merge Sort: 0.003000
+Merge Sort: 0.003000
+Merge Sort: 0.003000
+Merge Sort: 0.003000
+Merge Sort: 0.004000
+Merge Sort: 0.002000
+Merge Sort: 0.003000
+Merge Sort: 0.003000
+Merge Sort: 0.002000
+Merge Sort: 0.003000
+
+20.000
+
+2.707000
+1.809000
+2.062000
+1.830000
+1.994000
+3.074000
+2.142000
+2.604000
+2.713000
+2.288000
+
+
+
+2.707000
+1.809000
+2.062000
+1.830000
+1.994000
+3.074000
+2.142000
+2.604000
+2.713000
+2.288000
+
+0.002000
+0.002000
+0.001000
+0.009000
+0.002000
+0.002000
+0.002000
+0.002000
+0.001000
+0.001000
+
+
+0.002000
+0.002000
+0.001000
+0.001000
+0.002000
+0.002000
+0.007000
+0.003000
+0.002000
+0.002000
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+
+
+0.001000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.005000
+0.004000
+0.002000
+0.002000
+
+
+1.212000
+1.225000
+1.222000
+1.083000
+1.060000
+1.062000
+1.099000
+1.053000
+1.098000
+1.218000
+
+
+0.004000
+0.004000
+0.004000
+0.005000
+0.004000
+0.004000
+0.004000
+0.010000
+0.005000
+0.005000
+
+
+0.006000
+0.005000
+0.011000
+0.006000
+0.007000
+0.006000
+0.013000
+0.011000
+0.008000
+0.007000
+
+40.000
+
+14.630000
+8.498000
+9.088000
+9.370000
+8.289000
+7.367000
+7.746000
+7.142000
+8.840000
+9.079000
+
+
+5.156000
+5.105000
+4.910000
+5.041000
+5.179000
+4.901000
+4.906000
+4.755000
+4.539000
+4.632000
+
+
+0.004000
+0.002000
+0.004000
+0.008000
+0.004000
+0.003000
+0.004000
+0.004000
+0.003000
+0.004000
+
+0.007000
+0.006000
+0.004000
+0.003000
+0.005000
+0.003000
+0.004000
+0.003000
+0.007000
+0.004000
+
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+
+
+0.003000
+0.003000
+0.003000
+0.003000
+0.007000
+0.003000
+0.003000
+0.003000
+0.004000
+0.002000
+
+
+4.591000
+4.602000
+4.562000
+4.648000
+4.491000
+4.372000
+4.261000
+4.716000
+5.005000
+4.978000
+
+
+0.021000
+0.015000
+0.045000
+0.011000
+0.008000
+0.014000
+0.010000
+0.009000
+0.010000
+0.008000
+
+
+0.014000
+0.022000
+0.014000
+0.031000
+0.014000
+0.013000
+0.011000
+0.017000
+0.021000
+0.014000
+
+80,000
+
+56.283000
+34.159000
+35.897000
+35.072000
+35.020000
+35.120000
+33.867000
+34.804000
+35.958000
+34.985000
+
+
+20.325000
+17.563000
+15.637000
+15.062000
+14.886000
+14.799000
+14.812000
+15.103000
+15.005000
+14.832000
+
+
+0.008000
+0.007000
+0.007000
+0.007000
+0.007000
+0.007000
+0.008000
+0.008000
+0.007000
+0.007000
+
+
+0.007000
+0.007000
+0.008000
+0.008000
+0.007000
+0.008000
+0.007000
+0.008000
+0.009000
+0.006000
+
+
+0.001000
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+
+
+0.006000
+0.007000
+0.006000
+0.006000
+0.007000
+0.006000
+0.006000
+0.005000
+0.006000
+0.006000
+
+13.598000
+13.613000
+13.648000
+13.604000
+13.595000
+13.589000
+13.781000
+13.646000
+13.738000
+13.601000
+
+
+0.019000
+0.020000
+0.018000
+0.019000
+0.017000
+0.018000
+0.019000
+0.018000
+0.018000
+0.018000
+
+
+0.024000
+0.024000
+0.024000
+0.024000
+0.027000
+0.025000
+0.025000
+0.025000
+0.024000
+0.026000
+
+160.000
+
+207.234000
+127.685000
+137.665000
+129.926000
+135.529000
+129.097000
+131.522000
+135.302000
+134.945000
+149.867000
+
+
+93.372000
+85.923000
+89.779000
+76.935000
+78.146000
+70.024000
+61.234000
+60.894000
+60.861000
+61.032000
+
+0.016000
+0.015000
+0.015000
+0.017000
+0.016000
+0.016000
+0.016000
+0.016000
+0.015000
+0.015000
+
+0.016000
+0.016000
+0.016000
+0.016000
+0.016000
+0.016000
+0.018000
+0.016000
+0.016000
+0.016000
+
+
+0.001000
+0.001000
+0.001000
+0.002000
+0.002000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+
+
+0.015000
+0.016000
+0.015000
+0.014000
+0.015000
+0.015000
+0.016000
+0.015000
+0.015000
+0.014000
+
+55.746000
+55.490000
+65.978000
+67.240000
+64.954000
+67.192000
+63.781000
+63.600000
+63.921000
+64.028000
+
+
+0.045000
+0.043000
+0.042000
+0.054000
+0.049000
+0.049000
+0.092000
+0.073000
+0.041000
+0.044000
+
+
+0.061000
+0.062000
+0.062000
+0.062000
+0.062000
+0.060000
+0.064000
+0.057000
+0.069000
+0.061000
+
+ORDENADO ------------------------------
+
+Bubble Sort: 0.006000
+Bubble Sort: 0.009000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.003000
+Bubble Sort: 0.004000
+Bubble Sort: 0.005000
+Bubble Sort: 0.004000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.003000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.003000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.003000
+Selection Sort: 0.002000
+Selection Sort: 0.003000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.001000
+Heap Sort: 0.001000
+Heap Sort: 0.000000
+Heap Sort: 0.001000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.001000
+Merge Sort: 0.000000
+Merge Sort: 0.001000
+Merge Sort: 0.001000
+Merge Sort: 0.000000
+Merge Sort: 0.001000
+
+Bubble Sort: 0.457000
+Bubble Sort: 0.485000
+Bubble Sort: 0.559000
+Bubble Sort: 0.618000
+Bubble Sort: 0.552000
+Bubble Sort: 0.449000
+Bubble Sort: 0.442000
+Bubble Sort: 0.449000
+Bubble Sort: 0.428000
+Bubble Sort: 0.467000
+Bubble Sort Plus: 0.241000
+Bubble Sort Plus: 0.240000
+Bubble Sort Plus: 0.239000
+Bubble Sort Plus: 0.238000
+Bubble Sort Plus: 0.243000
+Bubble Sort Plus: 0.237000
+Bubble Sort Plus: 0.239000
+Bubble Sort Plus: 0.238000
+Bubble Sort Plus: 0.242000
+Bubble Sort Plus: 0.286000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.003000
+Shell Sort: 0.002000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Selection Sort: 0.257000
+Selection Sort: 0.258000
+Selection Sort: 0.239000
+Selection Sort: 0.227000
+Selection Sort: 0.228000
+Selection Sort: 0.224000
+Selection Sort: 0.218000
+Selection Sort: 0.218000
+Selection Sort: 0.225000
+Selection Sort: 0.250000
+Heap Sort: 0.034000
+Heap Sort: 0.020000
+Heap Sort: 0.006000
+Heap Sort: 0.012000
+Heap Sort: 0.006000
+Heap Sort: 0.007000
+Heap Sort: 0.008000
+Heap Sort: 0.008000
+Heap Sort: 0.003000
+Heap Sort: 0.004000
+Merge Sort: 0.008000
+Merge Sort: 0.011000
+Merge Sort: 0.012000
+Merge Sort: 0.015000
+Merge Sort: 0.024000
+Merge Sort: 0.010000
+Merge Sort: 0.012000
+Merge Sort: 0.012000
+Merge Sort: 0.008000
+Merge Sort: 0.007000
+
+Bubble Sort: 2.349000
+Bubble Sort: 2.134000
+Bubble Sort: 2.058000
+Bubble Sort: 1.973000
+Bubble Sort: 2.322000
+Bubble Sort: 2.109000
+Bubble Sort: 2.184000
+Bubble Sort: 2.106000
+Bubble Sort: 2.139000
+Bubble Sort: 2.014000
+Bubble Sort Plus: 1.130000
+Bubble Sort Plus: 1.062000
+Bubble Sort Plus: 1.066000
+Bubble Sort Plus: 1.078000
+Bubble Sort Plus: 1.176000
+Bubble Sort Plus: 1.065000
+Bubble Sort Plus: 1.078000
+Bubble Sort Plus: 1.087000
+Bubble Sort Plus: 1.099000
+Bubble Sort Plus: 1.071000
+Quick Sort: 0.001000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.001000
+Quick Sort: 0.002000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.002000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.002000
+Shell Sort: 0.001000
+Shell Sort: 0.006000
+Shell Sort: 0.003000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Selection Sort: 0.962000
+Selection Sort: 1.009000
+Selection Sort: 0.981000
+Selection Sort: 0.989000
+Selection Sort: 0.991000
+Selection Sort: 1.079000
+Selection Sort: 1.029000
+Selection Sort: 1.040000
+Selection Sort: 0.989000
+Selection Sort: 1.012000
+Heap Sort: 0.004000
+Heap Sort: 0.005000
+Heap Sort: 0.004000
+Heap Sort: 0.004000
+Heap Sort: 0.008000
+Heap Sort: 0.004000
+Heap Sort: 0.004000
+Heap Sort: 0.007000
+Heap Sort: 0.004000
+Heap Sort: 0.004000
+Merge Sort: 0.012000
+Merge Sort: 0.014000
+Merge Sort: 0.006000
+Merge Sort: 0.009000
+Merge Sort: 0.006000
+Merge Sort: 0.010000
+Merge Sort: 0.005000
+Merge Sort: 0.006000
+Merge Sort: 0.010000
+Merge Sort: 0.008000
+
+Bubble Sort: 7.723000
+Bubble Sort: 7.650000
+Bubble Sort: 7.634000
+Bubble Sort: 7.694000
+Bubble Sort: 8.259000
+Bubble Sort: 7.801000
+Bubble Sort: 7.633000
+Bubble Sort: 7.959000
+Bubble Sort: 7.646000
+Bubble Sort: 7.775000
+Bubble Sort Plus: 4.710000
+Bubble Sort Plus: 4.396000
+Bubble Sort Plus: 4.364000
+Bubble Sort Plus: 4.430000
+Bubble Sort Plus: 4.438000
+Bubble Sort Plus: 4.452000
+Bubble Sort Plus: 4.464000
+Bubble Sort Plus: 4.391000
+Bubble Sort Plus: 4.558000
+Bubble Sort Plus: 4.456000
+Quick Sort: 0.002000
+Quick Sort: 0.002000
+Quick Sort: 0.004000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.004000
+Quick Sort: 0.002000
+Quick Sort: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.004000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.004000
+Quick Sort Center: 0.005000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.003000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Shell Sort: 0.004000
+Shell Sort: 0.003000
+Shell Sort: 0.004000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Shell Sort: 0.003000
+Shell Sort: 0.003000
+Shell Sort: 0.002000
+Shell Sort: 0.005000
+Shell Sort: 0.002000
+Selection Sort: 3.981000
+Selection Sort: 3.978000
+Selection Sort: 3.987000
+Selection Sort: 3.983000
+Selection Sort: 3.923000
+Selection Sort: 3.974000
+Selection Sort: 4.061000
+Selection Sort: 3.993000
+Selection Sort: 3.985000
+Selection Sort: 4.094000
+Heap Sort: 0.011000
+Heap Sort: 0.009000
+Heap Sort: 0.011000
+Heap Sort: 0.013000
+Heap Sort: 0.008000
+Heap Sort: 0.011000
+Heap Sort: 0.011000
+Heap Sort: 0.009000
+Heap Sort: 0.010000
+Heap Sort: 0.008000
+Merge Sort: 0.015000
+Merge Sort: 0.015000
+Merge Sort: 0.015000
+Merge Sort: 0.014000
+Merge Sort: 0.015000
+Merge Sort: 0.014000
+Merge Sort: 0.015000
+Merge Sort: 0.014000
+Merge Sort: 0.021000
+Merge Sort: 0.021000
+
+Bubble Sort: 31.421000
+Bubble Sort: 30.867000
+Bubble Sort: 30.700000
+Bubble Sort: 31.295000
+Bubble Sort: 32.513000
+Bubble Sort: 31.051000
+Bubble Sort: 30.275000
+Bubble Sort: 30.419000
+Bubble Sort: 30.578000
+Bubble Sort: 30.307000
+Bubble Sort Plus: 17.854000
+Bubble Sort Plus: 17.786000
+Bubble Sort Plus: 17.586000
+Bubble Sort Plus: 17.651000
+Bubble Sort Plus: 17.816000
+Bubble Sort Plus: 17.677000
+Bubble Sort Plus: 17.533000
+Bubble Sort Plus: 17.626000
+Bubble Sort Plus: 17.676000
+Bubble Sort Plus: 17.493000
+Quick Sort: 0.006000
+Quick Sort: 0.009000
+Quick Sort: 0.006000
+Quick Sort: 0.007000
+Quick Sort: 0.005000
+Quick Sort: 0.006000
+Quick Sort: 0.007000
+Quick Sort: 0.008000
+Quick Sort: 0.010000
+Quick Sort: 0.005000
+Quick Sort Center: 0.007000
+Quick Sort Center: 0.007000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.007000
+Quick Sort Center: 0.005000
+Quick Sort Center: 0.012000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.009000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.010000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.008000
+Shell Sort: 0.005000
+Shell Sort: 0.008000
+Shell Sort: 0.005000
+Shell Sort: 0.005000
+Shell Sort: 0.007000
+Shell Sort: 0.005000
+Shell Sort: 0.005000
+Shell Sort: 0.008000
+Shell Sort: 0.006000
+Selection Sort: 15.898000
+Selection Sort: 16.075000
+Selection Sort: 15.916000
+Selection Sort: 15.793000
+Selection Sort: 15.859000
+Selection Sort: 15.630000
+Selection Sort: 19.447000
+Selection Sort: 19.273000
+Selection Sort: 18.873000
+Selection Sort: 19.443000
+Heap Sort: 0.019000
+Heap Sort: 0.018000
+Heap Sort: 0.017000
+Heap Sort: 0.017000
+Heap Sort: 0.018000
+Heap Sort: 0.018000
+Heap Sort: 0.018000
+Heap Sort: 0.019000
+Heap Sort: 0.017000
+Heap Sort: 0.017000
+Merge Sort: 0.026000
+Merge Sort: 0.024000
+Merge Sort: 0.024000
+Merge Sort: 0.025000
+Merge Sort: 0.024000
+Merge Sort: 0.026000
+Merge Sort: 0.025000
+Merge Sort: 0.024000
+Merge Sort: 0.024000
+Merge Sort: 0.027000
+
+Bubble Sort: 128.333000
+Bubble Sort: 114.459000
+Bubble Sort: 119.184000
+Bubble Sort: 128.188000
+Bubble Sort: 168.137000
+Bubble Sort: 167.208000
+Bubble Sort: 167.931000
+Bubble Sort: 165.598000
+Bubble Sort: 165.478000
+Bubble Sort: 148.321000
+Bubble Sort Plus: 74.302000
+Bubble Sort Plus: 78.339000
+Bubble Sort Plus: 75.748000
+Bubble Sort Plus: 70.724000
+Bubble Sort Plus: 68.706000
+Bubble Sort Plus: 74.023000
+Bubble Sort Plus: 74.586000
+Bubble Sort Plus: 71.784000
+Bubble Sort Plus: 73.486000
+Bubble Sort Plus: 66.563000
+Quick Sort: 0.016000
+Quick Sort: 0.014000
+Quick Sort: 0.016000
+Quick Sort: 0.014000
+Quick Sort: 0.013000
+Quick Sort: 0.011000
+Quick Sort: 0.017000
+Quick Sort: 0.012000
+Quick Sort: 0.016000
+Quick Sort: 0.014000
+Quick Sort Center: 0.015000
+Quick Sort Center: 0.014000
+Quick Sort Center: 0.018000
+Quick Sort Center: 0.019000
+Quick Sort Center: 0.019000
+Quick Sort Center: 0.037000
+Quick Sort Center: 0.036000
+Quick Sort Center: 0.021000
+Quick Sort Center: 0.025000
+Quick Sort Center: 0.029000
+Insertion Sort: 0.005000
+Insertion Sort: 0.001000
+Insertion Sort: 0.003000
+Insertion Sort: 0.002000
+Insertion Sort: 0.004000
+Insertion Sort: 0.003000
+Insertion Sort: 0.002000
+Insertion Sort: 0.002000
+Insertion Sort: 0.002000
+Insertion Sort: 0.002000
+Shell Sort: 0.024000
+Shell Sort: 0.014000
+Shell Sort: 0.014000
+Shell Sort: 0.016000
+Shell Sort: 0.011000
+Shell Sort: 0.012000
+Shell Sort: 0.012000
+Shell Sort: 0.013000
+Shell Sort: 0.011000
+Shell Sort: 0.011000
+Selection Sort: 59.877000
+Selection Sort: 73.221000
+Selection Sort: 70.991000
+Selection Sort: 72.945000
+Selection Sort: 64.526000
+Selection Sort: 62.320000
+Selection Sort: 59.877000
+Selection Sort: 57.914000
+Selection Sort: 58.989000
+Selection Sort: 60.162000
+Heap Sort: 0.038000
+Heap Sort: 0.040000
+Heap Sort: 0.038000
+Heap Sort: 0.036000
+Heap Sort: 0.037000
+Heap Sort: 0.044000
+Heap Sort: 0.047000
+Heap Sort: 0.065000
+Heap Sort: 0.039000
+Heap Sort: 0.039000
+Merge Sort: 0.078000
+Merge Sort: 0.078000
+Merge Sort: 0.073000
+Merge Sort: 0.079000
+Merge Sort: 0.070000
+Merge Sort: 0.061000
+Merge Sort: 0.053000
+Merge Sort: 0.049000
+Merge Sort: 0.050000
+Merge Sort: 0.053000
+
+ORDENADO DECRESCENTE
+
+
+Bubble Sort: 0.006000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.004000
+Bubble Sort: 0.005000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.003000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Bubble Sort Plus: 0.002000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.003000
+Selection Sort: 0.003000
+Selection Sort: 0.003000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Selection Sort: 0.002000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.001000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Heap Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.001000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.000000
+Merge Sort: 0.002000
+Merge Sort: 0.000000
+
+Bubble Sort: 0.572000
+Bubble Sort: 0.408000
+Bubble Sort: 0.605000
+Bubble Sort: 0.567000
+Bubble Sort: 0.409000
+Bubble Sort: 0.484000
+Bubble Sort: 0.407000
+Bubble Sort: 0.472000
+Bubble Sort: 0.664000
+Bubble Sort: 0.466000
+Bubble Sort Plus: 0.316000
+Bubble Sort Plus: 0.415000
+Bubble Sort Plus: 0.644000
+Bubble Sort Plus: 1.080000
+Bubble Sort Plus: 0.312000
+Bubble Sort Plus: 0.319000
+Bubble Sort Plus: 0.346000
+Bubble Sort Plus: 0.273000
+Bubble Sort Plus: 0.293000
+Bubble Sort Plus: 0.268000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.000000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.000000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.005000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.000000
+Shell Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Selection Sort: 0.261000
+Selection Sort: 0.245000
+Selection Sort: 0.263000
+Selection Sort: 0.252000
+Selection Sort: 0.254000
+Selection Sort: 0.253000
+Selection Sort: 0.251000
+Selection Sort: 0.284000
+Selection Sort: 0.266000
+Selection Sort: 0.266000
+Heap Sort: 0.004000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Heap Sort: 0.009000
+Heap Sort: 0.002000
+Heap Sort: 0.002000
+Merge Sort: 0.003000
+Merge Sort: 0.004000
+Merge Sort: 0.004000
+Merge Sort: 0.003000
+Merge Sort: 0.002000
+Merge Sort: 0.003000
+Merge Sort: 0.008000
+Merge Sort: 0.003000
+Merge Sort: 0.002000
+Merge Sort: 0.002000
+
+Bubble Sort: 2.742000
+Bubble Sort: 1.942000
+Bubble Sort: 1.945000
+Bubble Sort: 1.944000
+Bubble Sort: 2.236000
+Bubble Sort: 1.916000
+Bubble Sort: 1.944000
+Bubble Sort: 2.208000
+Bubble Sort: 2.137000
+Bubble Sort: 2.068000
+Bubble Sort Plus: 1.190000
+Bubble Sort Plus: 1.195000
+Bubble Sort Plus: 1.190000
+Bubble Sort Plus: 1.236000
+Bubble Sort Plus: 1.162000
+Bubble Sort Plus: 1.158000
+Bubble Sort Plus: 1.186000
+Bubble Sort Plus: 1.160000
+Bubble Sort Plus: 1.254000
+Bubble Sort Plus: 1.111000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.001000
+Quick Sort: 0.002000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.001000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.002000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Shell Sort: 0.005000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Shell Sort: 0.001000
+Shell Sort: 0.001000
+Selection Sort: 0.973000
+Selection Sort: 1.057000
+Selection Sort: 0.995000
+Selection Sort: 1.036000
+Selection Sort: 1.096000
+Selection Sort: 1.037000
+Selection Sort: 1.055000
+Selection Sort: 1.092000
+Selection Sort: 1.081000
+Selection Sort: 1.094000
+Heap Sort: 0.005000
+Heap Sort: 0.004000
+Heap Sort: 0.004000
+Heap Sort: 0.008000
+Heap Sort: 0.028000
+Heap Sort: 0.011000
+Heap Sort: 0.004000
+Heap Sort: 0.004000
+Heap Sort: 0.003000
+Heap Sort: 0.003000
+Merge Sort: 0.005000
+Merge Sort: 0.006000
+Merge Sort: 0.006000
+Merge Sort: 0.007000
+Merge Sort: 0.006000
+Merge Sort: 0.005000
+Merge Sort: 0.014000
+Merge Sort: 0.006000
+Merge Sort: 0.007000
+Merge Sort: 0.005000
+
+Bubble Sort: 12.029000
+Bubble Sort: 8.279000
+Bubble Sort: 8.428000
+Bubble Sort: 8.463000
+Bubble Sort: 8.635000
+Bubble Sort: 8.290000
+Bubble Sort: 7.923000
+Bubble Sort: 8.156000
+Bubble Sort: 8.043000
+Bubble Sort: 8.486000
+Bubble Sort Plus: 4.704000
+Bubble Sort Plus: 4.752000
+Bubble Sort Plus: 4.826000
+Bubble Sort Plus: 4.608000
+Bubble Sort Plus: 4.629000
+Bubble Sort Plus: 5.032000
+Bubble Sort Plus: 4.347000
+Bubble Sort Plus: 4.734000
+Bubble Sort Plus: 4.374000
+Bubble Sort Plus: 4.429000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.002000
+Quick Sort: 0.003000
+Quick Sort: 0.003000
+Quick Sort: 0.006000
+Quick Sort: 0.003000
+Quick Sort: 0.002000
+Quick Sort: 0.002000
+Quick Sort: 0.002000
+Quick Sort Center: 0.004000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.002000
+Quick Sort Center: 0.007000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.003000
+Quick Sort Center: 0.006000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Insertion Sort: 0.000000
+Shell Sort: 0.003000
+Shell Sort: 0.002000
+Shell Sort: 0.006000
+Shell Sort: 0.003000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Shell Sort: 0.002000
+Shell Sort: 0.003000
+Shell Sort: 0.003000
+Shell Sort: 0.002000
+Selection Sort: 4.016000
+Selection Sort: 3.978000
+Selection Sort: 4.254000
+Selection Sort: 4.643000
+Selection Sort: 4.499000
+Selection Sort: 4.404000
+Selection Sort: 4.581000
+Selection Sort: 4.389000
+Selection Sort: 4.679000
+Selection Sort: 4.233000
+Heap Sort: 0.013000
+Heap Sort: 0.010000
+Heap Sort: 0.009000
+Heap Sort: 0.012000
+Heap Sort: 0.010000
+Heap Sort: 0.009000
+Heap Sort: 0.011000
+Heap Sort: 0.010000
+Heap Sort: 0.009000
+Heap Sort: 0.024000
+Merge Sort: 0.024000
+Merge Sort: 0.026000
+Merge Sort: 0.011000
+Merge Sort: 0.013000
+Merge Sort: 0.018000
+Merge Sort: 0.013000
+Merge Sort: 0.018000
+Merge Sort: 0.012000
+Merge Sort: 0.017000
+Merge Sort: 0.012000
+
+Bubble Sort: 45.494000
+Bubble Sort: 32.637000
+Bubble Sort: 34.762000
+Bubble Sort: 33.807000
+Bubble Sort: 32.049000
+Bubble Sort: 33.521000
+Bubble Sort: 33.592000
+Bubble Sort: 33.578000
+Bubble Sort: 33.330000
+Bubble Sort: 32.180000
+Bubble Sort Plus: 24.181000
+Bubble Sort Plus: 20.231000
+Bubble Sort Plus: 20.948000
+Bubble Sort Plus: 18.783000
+Bubble Sort Plus: 20.065000
+Bubble Sort Plus: 17.614000
+Bubble Sort Plus: 20.442000
+Bubble Sort Plus: 18.653000
+Bubble Sort Plus: 22.018000
+Bubble Sort Plus: 19.911000
+Quick Sort: 0.008000
+Quick Sort: 0.005000
+Quick Sort: 0.006000
+Quick Sort: 0.009000
+Quick Sort: 0.005000
+Quick Sort: 0.012000
+Quick Sort: 0.006000
+Quick Sort: 0.009000
+Quick Sort: 0.005000
+Quick Sort: 0.009000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.008000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.009000
+Quick Sort Center: 0.005000
+Quick Sort Center: 0.010000
+Quick Sort Center: 0.006000
+Quick Sort Center: 0.009000
+Quick Sort Center: 0.006000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.007000
+Insertion Sort: 0.001000
+Insertion Sort: 0.000000
+Insertion Sort: 0.001000
+Shell Sort: 0.005000
+Shell Sort: 0.009000
+Shell Sort: 0.005000
+Shell Sort: 0.005000
+Shell Sort: 0.008000
+Shell Sort: 0.005000
+Shell Sort: 0.008000
+Shell Sort: 0.005000
+Shell Sort: 0.005000
+Shell Sort: 0.008000
+Selection Sort: 18.527000
+Selection Sort: 18.935000
+Selection Sort: 17.843000
+Selection Sort: 19.080000
+Selection Sort: 18.478000
+Selection Sort: 19.295000
+Selection Sort: 19.310000
+Selection Sort: 22.467000
+Selection Sort: 19.723000
+Selection Sort: 19.490000
+Heap Sort: 0.023000
+Heap Sort: 0.027000
+Heap Sort: 0.024000
+Heap Sort: 0.027000
+Heap Sort: 0.023000
+Heap Sort: 0.029000
+Heap Sort: 0.034000
+Heap Sort: 0.026000
+Heap Sort: 0.022000
+Heap Sort: 0.022000
+Merge Sort: 0.033000
+Merge Sort: 0.033000
+Merge Sort: 0.033000
+Merge Sort: 0.062000
+Merge Sort: 0.033000
+Merge Sort: 0.032000
+Merge Sort: 0.033000
+Merge Sort: 0.034000
+Merge Sort: 0.032000
+Merge Sort: 0.036000
+
+Bubble Sort: 193.534000
+Bubble Sort: 117.329000
+Bubble Sort: 117.292000
+Bubble Sort: 118.073000
+Bubble Sort: 122.021000
+Bubble Sort: 136.237000
+Bubble Sort: 144.199000
+Bubble Sort: 144.333000
+Bubble Sort: 142.139000
+Bubble Sort: 130.581000
+Bubble Sort Plus: 63.920000
+Bubble Sort Plus: 62.551000
+Bubble Sort Plus: 64.329000
+Bubble Sort Plus: 61.617000
+Bubble Sort Plus: 62.049000
+Bubble Sort Plus: 61.904000
+Bubble Sort Plus: 83.619000
+Bubble Sort Plus: 73.523000
+Bubble Sort Plus: 91.175000
+Bubble Sort Plus: 81.210000
+Quick Sort: 0.013000
+Quick Sort: 0.015000
+Quick Sort: 0.017000
+Quick Sort: 0.012000
+Quick Sort: 0.012000
+Quick Sort: 0.017000
+Quick Sort: 0.013000
+Quick Sort: 0.016000
+Quick Sort: 0.013000
+Quick Sort: 0.017000
+Quick Sort Center: 0.014000
+Quick Sort Center: 0.021000
+Quick Sort Center: 0.015000
+Quick Sort Center: 0.024000
+Quick Sort Center: 0.016000
+Quick Sort Center: 0.019000
+Quick Sort Center: 0.014000
+Quick Sort Center: 0.016000
+Quick Sort Center: 0.015000
+Quick Sort Center: 0.017000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.002000
+Insertion Sort: 0.001000
+Insertion Sort: 0.003000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.001000
+Insertion Sort: 0.002000
+Insertion Sort: 0.001000
+Shell Sort: 0.016000
+Shell Sort: 0.014000
+Shell Sort: 0.017000
+Shell Sort: 0.013000
+Shell Sort: 0.012000
+Shell Sort: 0.012000
+Shell Sort: 0.012000
+Shell Sort: 0.019000
+Shell Sort: 0.014000
+Shell Sort: 0.023000
+Selection Sort: 68.127000
+Selection Sort: 57.040000
+Selection Sort: 58.418000
+Selection Sort: 56.427000
+Selection Sort: 57.316000
+Selection Sort: 58.853000
+Selection Sort: 63.977000
+Selection Sort: 57.986000
+Selection Sort: 58.871000
+Selection Sort: 59.641000
+Heap Sort: 0.044000
+Heap Sort: 0.042000
+Heap Sort: 0.043000
+Heap Sort: 0.038000
+Heap Sort: 0.037000
+Heap Sort: 0.036000
+Heap Sort: 0.035000
+Heap Sort: 0.042000
+Heap Sort: 0.047000
+Heap Sort: 0.042000
+Merge Sort: 0.049000
+Merge Sort: 0.049000
+Merge Sort: 0.047000
+Merge Sort: 0.049000
+Merge Sort: 0.050000
+Merge Sort: 0.060000
+Merge Sort: 0.064000
+Merge Sort: 0.052000
+Merge Sort: 0.052000
+Merge Sort: 0.051000
+
+
+PARTE NOVA------------------
+
+ORDENADO:
+Bubble Sort:
+
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.005000
+0.004000
+0.004000
+0.004000
+Bubble Sort Plus
+
+0.002000
+0.002000
+0.002000
+0.002000
+0.003000
+0.003000
+0.002000
+0.003000
+0.002000
+0.002000
+Quick Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Quick Sort Center
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Shell Sort
+
+0.001000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+Selection Sort
+
+0.002000
+0.004000
+0.002000
+0.002000
+0.002000
+0.002000
+0.002000
+0.003000
+0.002000
+0.002000
+Heap Sort
+
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+0.001000
+0.001000
+Merge Sort
+
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+
+
+
+Bubble Sort:
+
+0.422000
+0.412000
+0.463000
+0.422000
+0.422000
+0.423000
+0.413000
+0.417000
+0.412000
+0.421000
+Bubble Sort Plus
+
+0.238000
+0.242000
+0.247000
+0.238000
+0.244000
+0.239000
+0.238000
+0.251000
+0.244000
+0.239000
+Quick Sort
+
+0.000000
+0.000000
+0.001000
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+Quick Sort Center
+
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+0.001000
+0.001000
+0.000000
+0.001000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Shell Sort
+
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+Selection Sort
+
+0.226000
+0.219000
+0.218000
+0.220000
+0.219000
+0.222000
+0.225000
+0.220000
+0.223000
+0.222000
+Heap Sort
+
+0.002000
+0.002000
+0.002000
+0.002000
+0.003000
+0.003000
+0.003000
+0.001000
+0.003000
+0.002000
+Merge Sort
+
+0.003000
+0.003000
+0.003000
+0.003000
+0.003000
+0.003000
+0.004000
+0.002000
+0.002000
+0.003000
+
+
+
+Bubble Sort:
+
+1.710000
+1.700000
+1.696000
+1.671000
+1.669000
+1.777000
+1.666000
+1.669000
+1.672000
+1.644000
+Bubble Sort Plus
+
+1.001000
+0.962000
+0.982000
+0.966000
+1.152000
+1.051000
+1.083000
+1.075000
+1.074000
+1.113000
+Quick Sort
+
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.002000
+Quick Sort Center
+
+0.002000
+0.002000
+0.001000
+0.002000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.002000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+Shell Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+Selection Sort
+
+0.902000
+0.953000
+0.966000
+0.951000
+0.963000
+0.904000
+0.882000
+0.877000
+0.883000
+0.876000
+Heap Sort
+
+0.003000
+0.004000
+0.004000
+0.003000
+0.004000
+0.005000
+0.004000
+0.004000
+0.004000
+0.003000
+Merge Sort
+
+0.007000
+0.008000
+0.006000
+0.007000
+0.007000
+0.006000
+0.008000
+0.005000
+0.009000
+0.005000
+
+
+
+Bubble Sort:
+
+6.727000
+6.746000
+6.724000
+6.670000
+6.736000
+6.811000
+6.665000
+6.679000
+6.666000
+6.741000
+Bubble Sort Plus
+
+3.860000
+3.900000
+3.872000
+3.859000
+3.946000
+3.882000
+3.919000
+3.857000
+3.852000
+3.848000
+Quick Sort
+
+0.002000
+0.003000
+0.004000
+0.003000
+0.003000
+0.003000
+0.003000
+0.003000
+0.003000
+0.002000
+Quick Sort Center
+
+0.003000
+0.003000
+0.003000
+0.004000
+0.003000
+0.003000
+0.003000
+0.003000
+0.003000
+0.002000
+Insertion Sort
+
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+Shell Sort
+
+0.003000
+0.002000
+0.003000
+0.002000
+0.003000
+0.003000
+0.004000
+0.002000
+0.002000
+0.002000
+Selection Sort
+
+3.521000
+3.546000
+3.743000
+3.538000
+3.522000
+3.551000
+3.530000
+3.537000
+3.522000
+3.514000
+Heap Sort
+
+0.009000
+0.008000
+0.009000
+0.010000
+0.009000
+0.008000
+0.008000
+0.009000
+0.009000
+0.008000
+Merge Sort
+
+0.013000
+0.013000
+0.015000
+0.014000
+0.014000
+0.012000
+0.012000
+0.012000
+0.013000
+0.016000
+
+
+
+Bubble Sort:
+
+26.971000
+26.866000
+27.466000
+27.200000
+27.443000
+27.001000
+26.713000
+26.787000
+26.683000
+26.955000
+Bubble Sort Plus
+
+15.350000
+15.437000
+15.393000
+15.350000
+15.365000
+15.524000
+15.390000
+15.440000
+15.483000
+15.579000
+Quick Sort
+
+0.005000
+0.006000
+0.006000
+0.006000
+0.005000
+0.006000
+0.006000
+0.005000
+0.006000
+0.005000
+Quick Sort Center
+
+0.006000
+0.007000
+0.006000
+0.007000
+0.006000
+0.007000
+0.006000
+0.008000
+0.007000
+0.006000
+Insertion Sort
+
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+Shell Sort
+
+0.010000
+0.007000
+0.006000
+0.005000
+0.005000
+0.006000
+0.005000
+0.005000
+0.005000
+0.005000
+Selection Sort
+
+14.116000
+14.197000
+14.092000
+14.202000
+14.202000
+14.229000
+14.090000
+14.158000
+15.326000
+14.446000
+Heap Sort
+
+0.020000
+0.018000
+0.018000
+0.019000
+0.022000
+0.019000
+0.025000
+0.023000
+0.023000
+0.018000
+Merge Sort
+
+0.026000
+0.033000
+0.031000
+0.038000
+0.029000
+0.028000
+0.027000
+0.029000
+0.025000
+0.024000
+
+
+
+Bubble Sort:
+
+120.348000
+127.321000
+128.645000
+121.653000
+124.010000
+118.106000
+118.575000
+110.223000
+110.397000
+110.386000
+Bubble Sort Plus
+
+63.409000
+63.405000
+63.765000
+63.511000
+62.939000
+63.221000
+77.114000
+87.769000
+95.080000
+97.343000
+Quick Sort
+
+0.013000
+0.014000
+0.014000
+0.011000
+0.013000
+0.016000
+0.013000
+0.014000
+0.013000
+0.014000
+Quick Sort Center
+
+0.012000
+0.013000
+0.015000
+0.015000
+0.014000
+0.017000
+0.014000
+0.016000
+0.014000
+0.017000
+Insertion Sort
+
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.003000
+0.002000
+0.001000
+Shell Sort
+
+0.013000
+0.018000
+0.018000
+0.022000
+0.015000
+0.014000
+0.013000
+0.011000
+0.013000
+0.014000
+Selection Sort
+
+96.244000
+80.543000
+80.774000
+78.784000
+81.500000
+83.152000
+65.909000
+55.743000
+55.293000
+55.285000
+Heap Sort
+
+0.036000
+0.044000
+0.039000
+0.043000
+0.038000
+0.037000
+0.038000
+0.036000
+0.036000
+0.037000
+Merge Sort
+
+0.054000
+0.054000
+0.050000
+0.050000
+0.052000
+0.051000
+0.049000
+0.049000
+0.052000
+0.054000
+
+DESORDENADO-----------
+
+Bubble Sort:
+
+0.006000
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.004000
+0.005000
+Bubble Sort Plus
+
+0.002000
+0.003000
+0.003000
+0.002000
+0.003000
+0.003000
+0.002000
+0.003000
+0.002000
+0.002000
+Quick Sort
+
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Quick Sort Center
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Shell Sort
+
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Selection Sort
+
+0.002000
+0.002000
+0.003000
+0.003000
+0.002000
+0.002000
+0.002000
+0.003000
+0.002000
+0.002000
+Heap Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Merge Sort
+
+0.001000
+0.000000
+0.000000
+0.001000
+0.001000
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+
+
+
+Bubble Sort:
+
+0.571000
+0.415000
+0.497000
+0.456000
+0.418000
+0.409000
+0.412000
+0.409000
+0.405000
+0.404000
+Bubble Sort Plus
+
+0.234000
+0.243000
+0.242000
+0.236000
+0.238000
+0.234000
+0.239000
+0.237000
+0.236000
+0.233000
+Quick Sort
+
+0.001000
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.002000
+0.001000
+0.001000
+0.001000
+Quick Sort Center
+
+0.001000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+0.001000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Shell Sort
+
+0.001000
+0.000000
+0.001000
+0.001000
+0.001000
+0.000000
+0.000000
+0.000000
+0.001000
+0.000000
+Selection Sort
+
+0.216000
+0.218000
+0.216000
+0.214000
+0.215000
+0.219000
+0.217000
+0.217000
+0.216000
+0.215000
+Heap Sort
+
+0.002000
+0.002000
+0.002000
+0.002000
+0.002000
+0.001000
+0.001000
+0.002000
+0.002000
+0.002000
+Merge Sort
+
+0.004000
+0.003000
+0.004000
+0.003000
+0.002000
+0.003000
+0.003000
+0.003000
+0.002000
+0.003000
+
+
+
+Bubble Sort:
+
+2.304000
+1.617000
+1.632000
+1.686000
+1.630000
+1.632000
+1.629000
+1.619000
+1.627000
+1.616000
+Bubble Sort Plus
+
+0.943000
+0.937000
+0.944000
+0.940000
+0.943000
+0.933000
+0.938000
+0.948000
+0.936000
+0.942000
+Quick Sort
+
+0.001000
+0.001000
+0.001000
+0.002000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.002000
+Quick Sort Center
+
+0.001000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+0.002000
+0.001000
+Insertion Sort
+
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.001000
+0.001000
+Shell Sort
+
+0.002000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+Selection Sort
+
+0.861000
+0.863000
+0.863000
+0.868000
+0.867000
+0.860000
+0.870000
+0.860000
+0.865000
+0.860000
+Heap Sort
+
+0.004000
+0.004000
+0.004000
+0.003000
+0.003000
+0.005000
+0.004000
+0.004000
+0.005000
+0.004000
+Merge Sort
+
+0.006000
+0.007000
+0.006000
+0.006000
+0.007000
+0.006000
+0.008000
+0.005000
+0.005000
+0.006000
+
+
+
+Bubble Sort:
+
+9.138000
+6.514000
+6.518000
+6.503000
+6.519000
+6.553000
+6.498000
+6.512000
+6.516000
+6.852000
+Bubble Sort Plus
+
+3.804000
+3.751000
+3.865000
+3.755000
+3.783000
+3.741000
+3.774000
+3.755000
+3.765000
+3.769000
+Quick Sort
+
+0.003000
+0.003000
+0.003000
+0.002000
+0.002000
+0.004000
+0.003000
+0.002000
+0.003000
+0.002000
+Quick Sort Center
+
+0.003000
+0.003000
+0.002000
+0.002000
+0.003000
+0.004000
+0.003000
+0.003000
+0.003000
+0.002000
+Insertion Sort
+
+0.001000
+0.000000
+0.000000
+0.001000
+0.000000
+0.001000
+0.000000
+0.001000
+0.001000
+0.000000
+Shell Sort
+
+0.002000
+0.003000
+0.005000
+0.004000
+0.002000
+0.003000
+0.004000
+0.003000
+0.002000
+0.002000
+Selection Sort
+
+3.459000
+3.522000
+3.474000
+3.452000
+3.446000
+3.468000
+3.456000
+3.455000
+3.467000
+3.466000
+Heap Sort
+
+0.008000
+0.010000
+0.008000
+0.009000
+0.009000
+0.009000
+0.009000
+0.008000
+0.009000
+0.012000
+Merge Sort
+
+0.016000
+0.016000
+0.014000
+0.011000
+0.012000
+0.013000
+0.013000
+0.012000
+0.013000
+0.012000
+
+
+
+Bubble Sort:
+
+37.508000
+26.344000
+26.058000
+26.077000
+26.014000
+26.071000
+26.064000
+26.072000
+26.082000
+26.932000
+Bubble Sort Plus
+
+15.464000
+15.088000
+15.125000
+15.155000
+15.032000
+15.177000
+15.282000
+15.083000
+15.249000
+15.300000
+Quick Sort
+
+0.005000
+0.006000
+0.006000
+0.005000
+0.005000
+0.006000
+0.005000
+0.005000
+0.007000
+0.005000
+Quick Sort Center
+
+0.006000
+0.005000
+0.005000
+0.006000
+0.005000
+0.006000
+0.006000
+0.006000
+0.007000
+0.006000
+Insertion Sort
+
+0.000000
+0.001000
+0.001000
+0.000000
+0.000000
+0.001000
+0.001000
+0.001000
+0.001000
+0.000000
+Shell Sort
+
+0.005000
+0.006000
+0.006000
+0.006000
+0.005000
+0.006000
+0.006000
+0.006000
+0.005000
+0.005000
+Selection Sort
+
+14.117000
+13.832000
+13.905000
+13.844000
+13.888000
+13.824000
+13.817000
+14.067000
+13.819000
+14.151000
+Heap Sort
+
+0.019000
+0.018000
+0.019000
+0.018000
+0.017000
+0.018000
+0.018000
+0.018000
+0.021000
+0.017000
+Merge Sort
+
+0.024000
+0.025000
+0.025000
+0.029000
+0.027000
+0.024000
+0.026000
+0.025000
+0.026000
+0.030000
+
+
+
+Bubble Sort:
+
+144.609000
+104.244000
+105.014000
+104.303000
+104.706000
+104.394000
+105.083000
+103.837000
+104.230000
+103.988000
+Bubble Sort Plus
+
+59.983000
+60.166000
+60.080000
+60.089000
+60.012000
+60.812000
+60.491000
+59.697000
+59.523000
+59.668000
+Quick Sort
+
+0.011000
+0.012000
+0.012000
+0.011000
+0.011000
+0.012000
+0.013000
+0.011000
+0.012000
+0.012000
+Quick Sort Center
+
+0.012000
+0.012000
+0.012000
+0.012000
+0.013000
+0.013000
+0.012000
+0.012000
+0.012000
+0.012000
+Insertion Sort
+
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+0.001000
+Shell Sort
+
+0.010000
+0.011000
+0.010000
+0.011000
+0.011000
+0.010000
+0.011000
+0.011000
+0.010000
+0.011000
+Selection Sort
+
+54.725000
+55.249000
+54.797000
+54.854000
+54.727000
+55.050000
+54.744000
+54.826000
+54.941000
+55.829000
+Heap Sort
+
+0.036000
+0.035000
+0.035000
+0.037000
+0.037000
+0.038000
+0.039000
+0.040000
+0.037000
+0.035000
+Merge Sort
+
+0.048000
+0.052000
+0.049000
+0.048000
+0.049000
+0.049000
+0.049000
+0.054000
+0.047000
+0.050000
+
+

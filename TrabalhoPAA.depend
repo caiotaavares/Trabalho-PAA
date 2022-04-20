@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1643921117 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\atpii\atividade i\trabalhopaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"bubbleSort.h"
+
+1643920020 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\atpii\atividade i\trabalhopaa\bubblesort.h
+
+1643921101 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\atpii\atividade i\trabalhopaa\bubblesort.c
+	"bubbleSort.h"
+
+1644332116 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\bubblesort.c
+	"bubbleSort.h"
+
+1643920020 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\bubblesort.h
+
+1644887246 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"bubbleSort.h"
+	"bubbleSortPlus.h"
+	"quickSort.h"
+	"quickSortCenter.h"
+	"insectionSort.h"
+	"shellSort.h"
+	"selectionSort.h"
+	"heapSort.h"
+	"mergeSort.h"
+
+1644063461 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\bubblesortplus.h
+
+1644332730 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\bubblesortplus.c
+	"bubbleSortPlus.h"
+
+1644264417 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\quicksort.c
+	"quickSort.h"
+
+1644264405 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\quicksort.h
+
+1644266391 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\insectionsort.h
+
+1644266807 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\insectionsort.c
+	"insectionSort.h"
+
+1644269469 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\shellsort.h
+
+1644269466 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\shellsort.c
+	"shellSort.h"
+
+1644280299 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\selectionsort.h
+
+1644280268 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\selectionsort.c
+	"selectionSort.h"
+
+1644281440 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\heapsort.c
+	<stdbool.h>
+	"heapSort.h"
+
+1644281348 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\heapsort.h
+
+1644282061 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\mergesort.h
+
+1644282469 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\mergesort.c
+	"mergeSort.h"
+
+1644330646 source:d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\quicksortcenter.c
+
+1644330650 d:\documents\estudos\faculdade\facul1\graduação\segundo_semestre\paa\trabalhoseprovas\trabalhopaa\quicksortcenter.h
+

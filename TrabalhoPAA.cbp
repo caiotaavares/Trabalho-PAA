@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TrabalhoPAA" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TrabalhoPAA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TrabalhoPAA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bubbleSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bubbleSort.h" />
+		<Unit filename="bubbleSortPlus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bubbleSortPlus.h" />
+		<Unit filename="heapSort.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="heapSort.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="insectionSort.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="insectionSort.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergeSort.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="mergeSort.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="quickSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quickSort.h" />
+		<Unit filename="quickSortCenter.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="quickSortCenter.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="selectionSort.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="selectionSort.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="shellSort.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="shellSort.h">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
